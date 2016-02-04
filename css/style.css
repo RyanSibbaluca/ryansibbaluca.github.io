@@ -236,7 +236,7 @@ a:focus {
 #banner {
     padding: 0;
     text-align: center;
-    background: #4286f5;
+    background: /*#4286f5*/ #6ca4ff;
     width: 100%
 }
 #banner h1 {
