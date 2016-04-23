@@ -108,6 +108,7 @@ Main components
   #cd-timeline::before {
     left: 50%;
     margin-left: -2px;
+    top: 80px;
   }
 }
 

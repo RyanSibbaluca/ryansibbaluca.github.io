@@ -529,3 +529,7 @@ footer .design-by {
         width: 100%!important
     }
 }
+
+section.timeline h2.heading {
+    color: white;
+}
